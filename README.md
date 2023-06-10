@@ -1,6 +1,7 @@
 ### Hi there!
-My name is Szymon and I am a beginner React web developer with a passion for creating dynamic and interactive user experiences. I am also an avid cybersecurity enthusiast.
 
-I am currently seeking my first job in the field of web development and am excited to apply my skills and knowledge to real-world projects. With a strong foundation in HTML, CSS, and JavaScript, I am confident in my ability to quickly learn and adapt to new technologies.
+I'm Szymon, an aspiring Python developer with a keen interest in building robust and scalable applications. I'm also passionate about cybersecurity.
 
-You can find me on Twitter at [@SoSaymon](https://twitter.com/SoSaymon) or reach out to me via email at [szymon.chirowski@protonmail.com](szymon.chirowski@protonmail.com).
+I'm actively looking for my first job in the field of software development and I'm thrilled to utilize my skills and knowledge in real-world projects. With a solid understanding of Python, along with its libraries and frameworks, I'm confident in my ability to rapidly grasp and adapt to emerging technologies.
+
+Feel free to connect with me on Twitter at [@SoSaymon](https://twitter.com/SoSaymon) or drop me an email at szymon.chirowski@protonmail.com](szymon.chirowski@protonmail.com )I look forward to hearing from you!
