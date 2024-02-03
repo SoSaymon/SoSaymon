@@ -1,5 +1,11 @@
 # 💫 About Me:
-I'm currently working on my final school project. It's an OCR web app built with Python and Vue.js, but final version will include native mobile support.<br>I'm looking for collabs on innovative, challenging projects.<br>I'm currently learning Vue.js and FastApi framework
+👋 Hello there! I'm Szymon, a 19-year-old software developer passionate about crafting innovative solutions. Currently, my focus is on my final school project—an OCR web app. Leveraging the power of Python and Vue.js, I'm working towards not only a robust web version but also incorporating native mobile support in the final release.
+
+🚀 I'm actively seeking collaborations on exciting and challenging projects. If you have something innovative in mind, let's connect and make it happen!
+
+📚 Currently expanding my skill set with Vue.js and the FastAPI framework, I'm committed to continuous learning and growth in the dynamic field of software development.
+
+Let's code something extraordinary together! 💻✨
 
 
 ## 🌐 Socials:
